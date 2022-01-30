@@ -4,7 +4,7 @@
 
 |                  Index                   |
 |------------------------------------------|
-| [401 Unauthorized](#401%20Unauthorized). |
+| [401 Unauthorized](#401-unauthorized). |
 
 ## 401 Unauthorized
 | Code  |               Description                |
