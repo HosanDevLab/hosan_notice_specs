@@ -4,8 +4,14 @@
 
 |                  Index                   |
 |------------------------------------------|
+| [400 Bad Request](#400-bad-request)      |
 | [401 Unauthorized](#401-unauthorized)    |
-| [403 Forbidden](#403-forbidden)    |
+| [403 Forbidden](#403-forbidden)          |
+
+## 400 Bad Request
+| Code  |               Description                |
+|-------|------------------------------------------|
+| 40000 | 토큰이 만료되지 않아 Refresh할 수 없습니다. |
 
 ## 401 Unauthorized
 | Code  |               Description                |
